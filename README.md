@@ -1,1 +1,1 @@
-# Analysis-of-Personality-and-Social-Behaviour-using-R
+# Analysis of Personality and Social Behaviour
